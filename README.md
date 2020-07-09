@@ -1,4 +1,4 @@
-<img src="https://github.com/nikhilreddybilla28/nikhilreddybilla28/blob/master/githubgif.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/nikhilreddybilla28/nikhilreddybilla28/blob/master/githubgif.gif" alt="alt text" width="125" height="125" />
 
 ### Hi there 👋 Nikil Reddy Here...
 
