@@ -13,7 +13,7 @@
   <img align="left" alt="Nikhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://imultiarmedbandit.blogspot.com/">
-  <img align="left" alt="Nikhil's blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
+  <img align="left" alt="Nikhil's blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://medium.com/@icrypto1">
   <img align="left" alt="Nikhil's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
