@@ -1,17 +1,7 @@
 <img src="https://github.com/nikhilreddybilla28/nikhilreddybilla28/blob/master/githubgif.gif" alt="alt text" width="125" height="125" />
 
-### Hi there 👋 Nikil Reddy Here...
 
-- 🔭 I’m currently working on  deep learning.
-- 🌱 I’m currently learning fastai
-- 💬 Ask me about **Data Science & ML**
-- 📫 reach me at : [Mail](mailto:nikilreddybilla28@gmail.com), [LinkedIn](https://www.linkedin.com/in/nikilreddybilla/).
-- ⚡ Fun fact: I am a memer too. (credit:Sheldon_cooper)
-
-<img src="https://github.com/nikhilreddybilla28/nikhilreddybilla28/blob/master/githubgif.gif" alt="alt text" width="125" height="125" />
-
-
- # <a href="https://www.linkedin.com/in/nikilreddybilla/">Nikhil Reddy </a> :smiley:
+ # <a href="https://www.linkedin.com/in/nikilreddybilla/">Nikhil Reddy </a> 👋
  
  <a href="https://twitter.com/neural_nets_">
   <img align="left" alt="Nikhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,7 +13,7 @@
   <img align="left" alt="Nikhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://imultiarmedbandit.blogspot.com/">
-  <img align="left" alt="Ashwani's blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogspot.svg" />
+  <img align="left" alt="Nikhil's blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
 </a>
 <a href="https://medium.com/@icrypto1">
   <img align="left" alt="Nikhil's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
