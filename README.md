@@ -61,7 +61,7 @@ B.tech 3rd year Electrical Engineering student. Currently working in Deep learni
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neural_nets_)](https://twitter.com/neural_nets_) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikilreddybilla/)](https://www.linkedin.com/in/nikilreddybilla/) [![Gmail Badge](https://img.shields.io/badge/-nikilreddybilla28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mailto:nikilreddybilla28@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@aNikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neural_nets_)](https://twitter.com/neural_nets_) [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikilreddybilla/)](https://www.linkedin.com/in/nikilreddybilla/) [![Gmail Badge](https://img.shields.io/badge/-nikilreddybilla28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mailto:nikilreddybilla28@gmail.com) 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nikhilreddybilla28/count.svg" />
