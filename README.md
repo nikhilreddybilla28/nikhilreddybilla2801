@@ -25,7 +25,7 @@
  Machine Learning | Deep Learning | Python |  Data Science 
 
 ## About :sunglasses:
-B.tech 3rd year Electrical Engineering student. Currently working as a Contributor in Deep learning and Open Source. Passionate about Deep learning , Machine Learning and open source. Also, have some experience in Data Analysis.
+B.tech 3rd year Electrical Engineering student. Currently working in Deep learning and fastai . Passionate about Deep learning , Machine Learning and open source. Also, have some experience in Data Analysis.
 
 
 
