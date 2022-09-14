@@ -51,8 +51,6 @@ B.tech 3rd year Electrical Engineering student. Currently working in Deep learni
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilreddybilla28&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilreddybilla28&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nikhil's GitHub Stats" />
-
 
 <a href="https://github.com/nikhilreddybilla28">
   <!-- Change the `github-readme-stats.nikhilreddybilla28.vercel.app` to `github-readme-stats.vercel.app`  -->
