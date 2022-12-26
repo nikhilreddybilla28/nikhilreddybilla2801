@@ -25,16 +25,16 @@
  Machine Learning | Deep Learning | Python |  Data Science 
 
 ## About :sunglasses:
-B.tech 3rd year Electrical Engineering student. Currently working in Deep learning and fastai . Passionate about Deep learning , Machine Learning and open source. Interested in CFR & Healthcare
+B.tech graduate in Electrical Engineering. Machine Learning Research at IIITH. Passionate about Deep learning , Machine Learning and open source.
 
 
 
 ## Technologies :fire:
 - Machine Learning
 - Deep Learning
-- Data Analysis with **Python**.
 - Data Science.
 - Python.
+- Azure AI solutions
 
 
 **Languages and Tools:**  
@@ -47,20 +47,11 @@ B.tech 3rd year Electrical Engineering student. Currently working in Deep learni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/nikhilreddybilla28">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilreddybilla28&theme=radical&hide=glsl,python" />
-</a>
-
-
-
 
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@Nikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neural_nets_)](https://twitter.com/neural_nets_) [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikilreddybilla/)](https://www.linkedin.com/in/nikilreddybilla/) [![Gmail Badge](https://img.shields.io/badge/-nikilreddybilla28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mailto:nikilreddybilla28@gmail.com) 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nikhilreddybilla28/count.svg" />
-</p>
+
 
 
 <div align="center">
