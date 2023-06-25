@@ -22,10 +22,12 @@
 <br/>
 <br/>
 
- Machine Learning | Deep Learning | Python |  Data Science 
-
-## About :sunglasses:
-B.tech graduate in Electrical Engineering. Machine Learning Research at IIITH. Passionate about Deep learning , Machine Learning and open source.
+### Hey! 👋 🧑‍🚀
+#### About Me 🚀
+- 👀 I’m interested in ML and Computer Vision.
+- 🌱 Currently an Research Assistant at ML Lab, IIIT Hyderabad.
+- 💞️ I’m looking to collaborate on Domain Adaptation, Semantic Segmentation and Medical Imaging.
+- 🏛️ IIIT Hyderabad, Univ. of Leicester | NIT Rourkela
 
 
 
@@ -47,6 +49,10 @@ B.tech graduate in Electrical Engineering. Machine Learning Research at IIITH. P
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+#### GitHub Stats
+<!-- https://badges.pufler.dev/repos/{naagar} -->
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=nikhilreddybilla28&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/nikhilreddybilla28)
 
 
 ##  Contact Me :speech_balloon:
