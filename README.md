@@ -26,8 +26,8 @@
 #### About Me 🚀
 - 👀 I’m interested in ML and Computer Vision.
 - 🌱 Currently a Research Assistant at ML Lab, IIIT Hyderabad.
-- 💞️ I’m looking to collaborate on Domain Adaptation, Semantic Segmentation and Medical Imaging.
-- 🏛️ IIIT Hyderabad, Univ. of Leicester | NIT Rourkela
+- 💞️ I’m looking to collaborate on Domain Adaptation, Semantic Segmentation, and Medical Imaging.
+- 🏛️ IIIT Hyderabad | Univ. of Leicester | NIT Rourkela
 
 
 
