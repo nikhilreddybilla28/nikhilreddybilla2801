@@ -1,7 +1,7 @@
 <img src="https://github.com/nikhilreddybilla28/nikhilreddybilla28/blob/master/githubgif.gif" alt="alt text" width="125" height="125" />
 
 
- # <a href="https://www.linkedin.com/in/nikilreddybilla/">Nikhil Reddy </a> 👋
+ # <a href="https://www.linkedin.com/in/nikilreddybilla/">Nikhil Reddy Billa</a> 👋
  
  <a href="https://twitter.com/neural_nets_">
   <img align="left" alt="Nikhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
